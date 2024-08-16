@@ -9,9 +9,5 @@ const compiler = Webpack(webpackConfig);
 const devServerOptions = { ...webpackConfig.devServer, open: true };
 const server = new WebpackDevServer(devServerOptions, compiler);
 
-app.get("/", (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.html'));
-})
-
 server.startCallback(() => {
 });

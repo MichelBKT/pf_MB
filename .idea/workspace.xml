@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[del] dist directory">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] path css index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/app_www.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/www.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/www.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +62,7 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Node.js.bin\\www.executor": "Run",
+    "Node.js.webpack.config.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "20.10.0",
@@ -87,6 +92,20 @@
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\images" />
     </key>
   </component>
+  <component name="RunManager" selected="Node.js.webpack.config.js">
+    <configuration name="webpack.config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webpack.config.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.app\www" />
+      <item itemvalue="Node.js.webpack.config.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.webpack.config.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -105,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723813892477</updated>
-      <workItem from="1723813893529" duration="12083000" />
+      <workItem from="1723813893529" duration="14854000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -195,7 +214,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723825861546</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[edit] add Procfile">
+      <option name="closed" value="true" />
+      <created>1723826432646</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723826432646</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[edit] rename app directory">
+      <option name="closed" value="true" />
+      <created>1723826609196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723826609196</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +304,9 @@
     <MESSAGE value="initialisation" />
     <MESSAGE value="project import" />
     <MESSAGE value="[del] dist directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="[del] dist directory" />
+    <MESSAGE value="[edit] add Procfile" />
+    <MESSAGE value="[edit] rename app directory" />
+    <MESSAGE value="[edit] path css index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="[edit] path css index.html" />
   </component>
 </project>
