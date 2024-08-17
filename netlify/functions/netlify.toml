@@ -1,0 +1,8 @@
+[functions]
+external_node_modules = ["express"]
+node_bundler = "webpack"
+[[redirects]]
+force = true
+from = "/www/*"
+status = 200
+to = "/.netlify/functions/www/:splat"

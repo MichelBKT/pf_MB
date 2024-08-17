@@ -4,12 +4,14 @@ const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 const path = require('path');
 const ASSET_PATH = process.env.ASSET_PATH || '/';
 const webpack = require('webpack');
+const HtmlWebpackPlugin = require("html-webpack-plugin");
+
 
 module.exports =
     {
         mode: 'production',
         entry: {
-            bundle: './public/javascripts/index.js',
+            main: ['webpack-hot-middleware/client', './public/javascripts/index.js']
         },
         module: {
             rules: [
@@ -88,14 +90,10 @@ module.exports =
                             from: "./public/fonts",
                             to: "./fonts/[path][name][ext]",
                         },
-                        {
-                            from: "./public/index.html",
-                            to: "./[path][name][ext]",
-                        }
                     ],
                 }),
                 new MiniCssExtractPlugin({
-                    filename: './style.css',
+                    filename: 'style.css',
                 }),
                 new webpack.DefinePlugin({
                     'process.env.ASSET_PATH': JSON.stringify(ASSET_PATH),
@@ -106,6 +104,13 @@ module.exports =
                         DEBUG: false,
                     }
                 ),
-
+                new HtmlWebpackPlugin({
+                    template: 'public/index.html',
+                    files: {
+                        css: "style.css",
+                        js: "bundle.js",
+                    }
+                }),
+                new webpack.HotModuleReplacementPlugin(),
             ]
     }
