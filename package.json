@@ -64,7 +64,7 @@
     "core-js-compat": "^3.37.1",
     "core-util-is": "^1.0.3",
     "cross-spawn": "^7.0.3",
-    "debug": "^2.6.9",
+    "debug": "4.3.5",
     "default-browser": "^5.2.1",
     "default-browser-id": "^5.0.0",
     "default-gateway": "^6.0.3",

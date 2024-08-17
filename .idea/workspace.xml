@@ -4,25 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] index.html template + webpack.config.js + [del] Procfile">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/templateLanguages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netlify/functions/netlify.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/pfMichel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pfMichel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/app_www.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/www.js" beforeDir="false" afterPath="$PROJECT_DIR$/netlify/functions/www.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +123,7 @@
       <updated>1723813892477</updated>
       <workItem from="1723813893529" duration="19372000" />
       <workItem from="1723837472216" duration="8043000" />
-      <workItem from="1723848374527" duration="9753000" />
+      <workItem from="1723848374527" duration="11104000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -257,7 +245,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723833650643</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="[edit] index.html template + webpack.config.js + [del] Procfile">
+      <option name="closed" value="true" />
+      <created>1723886703770</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723886703770</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[edit] gitignore">
+      <option name="closed" value="true" />
+      <created>1723887018654</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723887018654</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,6 +341,7 @@
     <MESSAGE value="[edit] path js index.html" />
     <MESSAGE value="[edit] path js index.html + [del] Procfile" />
     <MESSAGE value="[edit] index.html template + webpack.config.js + [del] Procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="[edit] index.html template + webpack.config.js + [del] Procfile" />
+    <MESSAGE value="[edit] gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="[edit] gitignore" />
   </component>
 </project>
