@@ -92,6 +92,7 @@ module.exports =
                         },
                     ],
                 }),
+
                 new MiniCssExtractPlugin({
                     filename: 'style.css',
                 }),
