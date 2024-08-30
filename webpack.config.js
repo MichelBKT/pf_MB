@@ -90,6 +90,10 @@ module.exports =
                             from: "./public/fonts",
                             to: "./fonts/[path][name][ext]",
                         },
+                        {
+                            from: "./public/documents",
+                            to: "./documents/[path][name].[ext]",
+                        },
                     ],
                 }),
 

@@ -7,38 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] vulnerabilities correction">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] signature + fx3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/39312e3073169f4f80ea.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/e20662ae72013ccf0cc2.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/MBFavicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/contract.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/lightBulb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/memoji.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/michPortraitLarge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/portrait.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/processor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/screenshotCuisinea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/seedDraw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/signature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/studentLearning.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/studentWorking.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/www.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/www.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +133,7 @@
       <workItem from="1724997927913" duration="2195000" />
       <workItem from="1725000161022" duration="588000" />
       <workItem from="1725000778684" duration="1153000" />
-      <workItem from="1725026780017" duration="2222000" />
+      <workItem from="1725026780017" duration="5495000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -323,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724457677101</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="[fix] signature + fx3">
+      <option name="closed" value="true" />
+      <created>1725029203375</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725029203375</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,6 +386,7 @@
     <MESSAGE value="[edit] gitignore" />
     <MESSAGE value="[edit] public directory gitignore + app.js" />
     <MESSAGE value="[fix] vulnerabilities correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] vulnerabilities correction" />
+    <MESSAGE value="[fix] signature + fx3" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] signature + fx3" />
   </component>
 </project>

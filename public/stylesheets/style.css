@@ -539,14 +539,16 @@
         align-items: center;
         padding: 20px;
 
+
     }
 
 
     .screen {
         position: relative;
-        border-radius: 5px;
+        border-radius: 12px;
         width: 60rem;
-        background: #3e3e3e
+        background: #3e3e3e;
+
     }
 
 
@@ -705,7 +707,8 @@
     }
     .legal-notices {
         display: flex;
-        justify-content: end;
+        justify-content: center;
+        padding-top: 1rem;
     }
     .footer__balance-icon {
         margin-left: .5rem;
@@ -738,10 +741,6 @@
 
     }
     @media screen and (max-width: 809px){
-        .legal-notices {
-            justify-content: center;
-            padding-top: 1rem;
-        }
         .signature {
             width: 80%;
             background-position: 25% -10%;
