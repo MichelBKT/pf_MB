@@ -7,11 +7,12 @@
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/dist/fonts" />
       <excludeFolder url="file://$MODULE_DIR$/dist/images" />
-      <excludeFolder url="file://$MODULE_DIR$/public" />
+      <excludeFolder url="file://$MODULE_DIR$/public/documents" />
     </content>
     <content url="file://$MODULE_DIR$/dist" />
     <content url="file://$MODULE_DIR$/dist/fonts" />
     <content url="file://$MODULE_DIR$/dist/images" />
+    <content url="file://$MODULE_DIR$/public/documents" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="eay5gla" level="application" />

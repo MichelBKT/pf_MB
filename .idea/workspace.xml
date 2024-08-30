@@ -7,10 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] signature + fx3">
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] documents directory visibility + pdf webpack.config.js">
+      <change beforePath="$PROJECT_DIR$/.idea/pfMichel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pfMichel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.10.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.10.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/banck/WebstormProjects/pfMichel/node_modules&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/banck/WebstormProjects/pfMichel/public/documents&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -98,12 +97,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\stylesheets" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\javascripts" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents2" />
+      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\netlify\functions" />
     </key>
   </component>
@@ -133,7 +135,8 @@
       <workItem from="1724997927913" duration="2195000" />
       <workItem from="1725000161022" duration="588000" />
       <workItem from="1725000778684" duration="1153000" />
-      <workItem from="1725026780017" duration="5495000" />
+      <workItem from="1725026780017" duration="11907000" />
+      <workItem from="1725059830891" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -303,7 +306,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725029203375</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[edit] legal notices + border radius form">
+      <option name="closed" value="true" />
+      <created>1725033979470</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725033979470</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[fix] documents directory visibility + pdf webpack.config.js">
+      <option name="closed" value="true" />
+      <created>1725035803401</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725035803401</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,6 +406,8 @@
     <MESSAGE value="[edit] public directory gitignore + app.js" />
     <MESSAGE value="[fix] vulnerabilities correction" />
     <MESSAGE value="[fix] signature + fx3" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] signature + fx3" />
+    <MESSAGE value="[edit] legal notices + border radius form" />
+    <MESSAGE value="[fix] documents directory visibility + pdf webpack.config.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] documents directory visibility + pdf webpack.config.js" />
   </component>
 </project>
