@@ -748,6 +748,7 @@
             background-size: contain;
             background-repeat: no-repeat;
             margin-left: 3.5rem;
+            margin-top: 3.5rem;
         }
         .content__img-inner-no-repeat{
             background-size: auto;

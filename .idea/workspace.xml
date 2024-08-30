@@ -1,12 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] public directory gitignore + app.js">
-      <change beforePath="$PROJECT_DIR$/.idea/pfMichel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pfMichel.iml" afterDir="false" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] vulnerabilities correction">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/39312e3073169f4f80ea.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/e20662ae72013ccf0cc2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/MBFavicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/contract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/lightBulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/memoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/michPortraitLarge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/processor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotCuisinea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/seedDraw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentLearning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentWorking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/www.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/www.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +81,12 @@
     <setting file="file://$PROJECT_DIR$/bin/www.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/routes/index.js" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -78,7 +114,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript.Templates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\banck\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -102,7 +138,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.342" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
       </set>
     </attachedChunks>
   </component>
@@ -121,6 +157,11 @@
       <workItem from="1723837472216" duration="8043000" />
       <workItem from="1723848374527" duration="11665000" />
       <workItem from="1723895494997" duration="747000" />
+      <workItem from="1724393516158" duration="12455000" />
+      <workItem from="1724997927913" duration="2195000" />
+      <workItem from="1725000161022" duration="588000" />
+      <workItem from="1725000778684" duration="1153000" />
+      <workItem from="1725026780017" duration="2222000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -266,7 +307,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723887927063</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="[fix] vulnerabilities correction">
+      <option name="closed" value="true" />
+      <created>1724455040958</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724455040959</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[fix] vulnerabilities correction">
+      <option name="closed" value="true" />
+      <created>1724457677101</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724457677101</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,6 +405,7 @@
     <MESSAGE value="[edit] index.html template + webpack.config.js + [del] Procfile" />
     <MESSAGE value="[edit] gitignore" />
     <MESSAGE value="[edit] public directory gitignore + app.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="[edit] public directory gitignore + app.js" />
+    <MESSAGE value="[fix] vulnerabilities correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] vulnerabilities correction" />
   </component>
 </project>

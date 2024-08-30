@@ -84,7 +84,7 @@ module.exports =
                     patterns: [
                         {
                             from: "./public/images",
-                            to: "./images/[path][name][ext]",
+                            to: "./images/[path][name].[ext]",
                         },
                         {
                             from: "./public/fonts",
