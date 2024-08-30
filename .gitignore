@@ -89,7 +89,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-public
+#public
 
 # Gatsby files
 .cache/
@@ -102,7 +102,7 @@ public
 
 # vuepress v2.x temp and cache directory
 .temp
-.cache
+#.cache
 
 # Docusaurus cache and generated files
 .docusaurus
