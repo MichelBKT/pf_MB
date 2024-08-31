@@ -7,8 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] documents directory visibility + pdf webpack.config.js">
-      <change beforePath="$PROJECT_DIR$/.idea/pfMichel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pfMichel.iml" afterDir="false" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] chrome width 100%">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +135,7 @@
       <workItem from="1725000161022" duration="588000" />
       <workItem from="1725000778684" duration="1153000" />
       <workItem from="1725026780017" duration="11907000" />
-      <workItem from="1725059830891" duration="783000" />
+      <workItem from="1725059830891" duration="2144000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -322,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725035803401</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="[fix] chrome width 100%">
+      <option name="closed" value="true" />
+      <created>1725061196543</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725061196543</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,6 +415,7 @@
     <MESSAGE value="[fix] signature + fx3" />
     <MESSAGE value="[edit] legal notices + border radius form" />
     <MESSAGE value="[fix] documents directory visibility + pdf webpack.config.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] documents directory visibility + pdf webpack.config.js" />
+    <MESSAGE value="[fix] chrome width 100%" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] chrome width 100%" />
   </component>
 </project>
