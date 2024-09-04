@@ -7,8 +7,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] chrome width 100%">
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] chrome width 100% build">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/39312e3073169f4f80ea.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/documents/mentions_legales.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/e20662ae72013ccf0cc2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/MBFavicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/contract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/lightBulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/memoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/michPortraitLarge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/processor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotCuisinea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/seedDraw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentLearning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentWorking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +78,11 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/bin/www.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/routes/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/node_modules/three/build/three.module.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/three/examples/jsm/objects/SkyMesh.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/EffectComposer.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/node_modules/three/examples/jsm/postprocessing/Pass.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/javascripts/scrollThroughTube.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -66,34 +99,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Node.js.app\\www.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.bin\\www.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.webpack.config.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.www.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.10.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.10.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/banck/WebstormProjects/pfMichel/public/documents&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\banck\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Node.js.app\\www.executor": "Run",
+    "Node.js.bin\\www.executor": "Run",
+    "Node.js.scrollThroughTube.js.executor": "Debug",
+    "Node.js.webpack.config.js.executor": "Run",
+    "Node.js.www.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.10.0",
+    "javascript.nodejs.core.library.typings.version": "20.10.8",
+    "last_opened_file_path": "C:/Users/banck/WebstormProjects/pfMichel/public/documents",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "ts.external.directory.path": "C:\\Users\\banck\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents" />
@@ -107,6 +141,16 @@
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\netlify\functions" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.scrollThroughTube.js">
+    <configuration name="scrollThroughTube.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public/javascripts/scrollThroughTube.js" working-dir="$PROJECT_DIR$/public/javascripts">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.scrollThroughTube.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -135,7 +179,9 @@
       <workItem from="1725000161022" duration="588000" />
       <workItem from="1725000778684" duration="1153000" />
       <workItem from="1725026780017" duration="11907000" />
-      <workItem from="1725059830891" duration="2144000" />
+      <workItem from="1725059830891" duration="2706000" />
+      <workItem from="1725287593035" duration="5494000" />
+      <workItem from="1725304129543" duration="23932000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -329,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725061196543</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="[fix] chrome width 100% build">
+      <option name="closed" value="true" />
+      <created>1725065605421</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725065605421</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,6 +470,7 @@
     <MESSAGE value="[edit] legal notices + border radius form" />
     <MESSAGE value="[fix] documents directory visibility + pdf webpack.config.js" />
     <MESSAGE value="[fix] chrome width 100%" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] chrome width 100%" />
+    <MESSAGE value="[fix] chrome width 100% build" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] chrome width 100% build" />
   </component>
 </project>

@@ -346,8 +346,8 @@
         display: grid;
         place-items: center;
         line-height: 1.2;
-        grid-template-areas: 'title' 'layout' '...';
-        grid-template-rows: 3.5vw auto 3.5vw;
+        grid-template-areas: 'title' 'layout' '...' 'projects' '...';
+        grid-template-rows: 3.5vw auto 3.5vw auto 3.5vw auto 3.5vw;
         gap: 1rem;
     }
 
@@ -446,7 +446,13 @@
         font-weight: 400;
         line-height: 1;
     }
+    .projects__title {
+        grid-area: projects;
+        position: relative;
+        top: 85rem;
+        font-size: clamp(0.5rem, 3vw, 2rem);
 
+    }
     .content__text span span {
         display: inline-block;
     }
@@ -752,6 +758,10 @@
         .content__img-inner-no-repeat{
             background-size: auto;
             width: 100%;
+        }
+        .projects__title {
+            top: 50rem;
+
         }
     }
 

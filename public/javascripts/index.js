@@ -269,15 +269,18 @@ const fx3 = (itemElement, options) => {
         scrollTrigger: settings.scrollTrigger
     })
         .fromTo(imageElement, {
-            scale: 0.3,
+            scaleX: 1.5,
+            scaleY: 0.8,
+            left: 100,
             filter: 'brightness(100%) contrast(100%)',
             'clip-path': settings.clipPaths.step1.initial
         }, {
+            left: 0,
             ease: 'sine',
             rotationX: -35,
             rotationY: 35,
             filter: 'brightness(60%) contrast(400%)',
-            scale: 0.7,
+            scale: 1.4,
             'clip-path': settings.clipPaths.step1.final
         }, 0)
         .to(innerElements[0], {
@@ -305,24 +308,24 @@ const fx3 = (itemElement, options) => {
         }, '<')
         .to(innerElements[1], {
             ease: 'sine.in',
-            startAt: {skewY: 10, scaleY: 2},
+            startAt: {skewY: 10, scaleY: 1.5},
             skewY: 0,
-            scaleY: 1,
+            scaleY: 0.8,
         }, '<')
 
         .fromTo(text, {
             opacity: 0,
             yPercent: 40,
         }, {
-            opacity: 1,
+            opacity: 3,
             yPercent: 0,
         }, '>')
         .to(imageElement, {
             ease: 'sine',
             startAt: {filter: 'brightness(100%) contrast(100%) opacity(100%)'},
-            filter: 'brightness(60%) contrast(400%) opacity(0%)',
+            filter: 'brightness(60%) contrast(400%) opacity(20%)',
             rotationX: 25,
-            rotationY: 2,
+            rotationY: 1.5,
             scale: 1.2
         }, '<')
 }
