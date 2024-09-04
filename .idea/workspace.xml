@@ -7,9 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] add meta description + add title projects + [fix] image resolution">
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] add sitemap">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify/functions/www.js" beforeDir="false" afterPath="$PROJECT_DIR$/netlify/functions/www.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +156,7 @@
       <workItem from="1725026780017" duration="11907000" />
       <workItem from="1725059830891" duration="2706000" />
       <workItem from="1725287593035" duration="5494000" />
-      <workItem from="1725304129543" duration="25469000" />
+      <workItem from="1725304129543" duration="26581000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -363,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725460276414</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="[edit] add sitemap">
+      <option name="closed" value="true" />
+      <created>1725485180596</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725485180596</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,6 +463,7 @@
     <MESSAGE value="[fix] chrome width 100%" />
     <MESSAGE value="[fix] chrome width 100% build" />
     <MESSAGE value="[edit] add meta description + add title projects + [fix] image resolution" />
-    <option name="LAST_COMMIT_MESSAGE" value="[edit] add meta description + add title projects + [fix] image resolution" />
+    <MESSAGE value="[edit] add sitemap" />
+    <option name="LAST_COMMIT_MESSAGE" value="[edit] add sitemap" />
   </component>
 </project>
