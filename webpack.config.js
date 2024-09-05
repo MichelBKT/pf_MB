@@ -94,6 +94,10 @@ module.exports =
                             from: "./public/documents",
                             to: "./documents/[path][name].[ext]",
                         },
+                        {
+                            from: "./public/sitemap.xml",
+                            to: "./[path][name].[ext]",
+                        },
                     ],
                 }),
 

@@ -7,12 +7,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] add sitemap">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] add sitemap + route">
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/39312e3073169f4f80ea.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/documents/mentions_legales.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/e20662ae72013ccf0cc2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/MBFavicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/contract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/lightBulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/memoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/michPortraitLarge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/processor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotCuisinea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/seedDraw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentLearning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentWorking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/www.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/www.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/netlify/functions/www.js" beforeDir="false" afterPath="$PROJECT_DIR$/netlify/functions/www.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +139,7 @@
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents2" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents" />
@@ -156,7 +185,7 @@
       <workItem from="1725026780017" duration="11907000" />
       <workItem from="1725059830891" duration="2706000" />
       <workItem from="1725287593035" duration="5494000" />
-      <workItem from="1725304129543" duration="26581000" />
+      <workItem from="1725304129543" duration="30451000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -374,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725485180596</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="[edit] add sitemap + route">
+      <option name="closed" value="true" />
+      <created>1725486083803</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725486083803</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,6 +501,7 @@
     <MESSAGE value="[fix] chrome width 100% build" />
     <MESSAGE value="[edit] add meta description + add title projects + [fix] image resolution" />
     <MESSAGE value="[edit] add sitemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="[edit] add sitemap" />
+    <MESSAGE value="[edit] add sitemap + route" />
+    <option name="LAST_COMMIT_MESSAGE" value="[edit] add sitemap + route" />
   </component>
 </project>
