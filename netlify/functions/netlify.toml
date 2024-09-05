@@ -6,3 +6,7 @@ force = true
 from = "/www/*"
 status = 200
 to = "/.netlify/functions/www/:splat"
+[[headers]]
+for = "/documents/*"
+[headers.values]
+X-Robots-Tag = "noindex"
