@@ -98,6 +98,10 @@ module.exports =
                             from: "./public/sitemap.xml",
                             to: "./[path][name].[ext]",
                         },
+                        {
+                            from: "./public/robots.txt",
+                            to: "./[path][name].[ext]",
+                        },
                     ],
                 }),
 

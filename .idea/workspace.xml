@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] bug sitemap in search console">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[fix] bug sitemap in search console : balise xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +151,7 @@
       <workItem from="1725026780017" duration="11907000" />
       <workItem from="1725059830891" duration="2706000" />
       <workItem from="1725287593035" duration="5494000" />
-      <workItem from="1725304129543" duration="31996000" />
+      <workItem from="1725304129543" duration="32627000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -396,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725525244836</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="[fix] bug sitemap in search console : balise xml">
+      <option name="closed" value="true" />
+      <created>1725526206168</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1725526206168</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,6 +494,7 @@
     <MESSAGE value="[edit] add sitemap + route" />
     <MESSAGE value="[edit] sitemap modif" />
     <MESSAGE value="[fix] bug sitemap in search console" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] bug sitemap in search console" />
+    <MESSAGE value="[fix] bug sitemap in search console : balise xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] bug sitemap in search console : balise xml" />
   </component>
 </project>
