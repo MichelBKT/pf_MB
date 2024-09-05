@@ -7,8 +7,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] add robots.txt">
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[edit] modif header HTTP netlify.toml + meta description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/39312e3073169f4f80ea.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/documents/mentions_legales.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/e20662ae72013ccf0cc2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/MBFavicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/contract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/lightBulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/memoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/michPortraitLarge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/processor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotCuisinea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/seedDraw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentLearning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentWorking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/webpack.config.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +87,7 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectColorInfo">{
@@ -154,7 +182,7 @@
       <workItem from="1725026780017" duration="11907000" />
       <workItem from="1725059830891" duration="2706000" />
       <workItem from="1725287593035" duration="5494000" />
-      <workItem from="1725304129543" duration="35180000" />
+      <workItem from="1725304129543" duration="40106000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -412,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725526995580</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="[edit] modif header HTTP netlify.toml + meta description">
+      <option name="closed" value="true" />
+      <created>1725529822268</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1725529822268</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,8 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
-    <MESSAGE value="initialisation" />
     <MESSAGE value="project import" />
     <MESSAGE value="[del] dist directory" />
     <MESSAGE value="[edit] add Procfile" />
@@ -507,6 +541,8 @@
     <MESSAGE value="[fix] bug sitemap in search console" />
     <MESSAGE value="[fix] bug sitemap in search console : balise xml" />
     <MESSAGE value="[edit] add robots.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="[edit] add robots.txt" />
+    <MESSAGE value="[edit] modif header HTTP netlify.toml" />
+    <MESSAGE value="[edit] modif header HTTP netlify.toml + meta description" />
+    <option name="LAST_COMMIT_MESSAGE" value="[edit] modif header HTTP netlify.toml + meta description" />
   </component>
 </project>
