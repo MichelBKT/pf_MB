@@ -317,7 +317,7 @@ const fx3 = (itemElement, options) => {
             opacity: 0,
             yPercent: 40,
         }, {
-            opacity: 3,
+            opacity: 5,
             yPercent: 0,
         }, '>')
         .to(imageElement, {
@@ -582,3 +582,4 @@ preloadImages('.content__img-inner').then(() => {
 });
 
 year();
+

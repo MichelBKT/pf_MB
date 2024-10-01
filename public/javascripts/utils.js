@@ -53,6 +53,8 @@ const year = () => {
 }
 
 
+
+
 // Exporting utility functions for use in other modules.
 export {
     preloadImages,
@@ -61,4 +63,5 @@ export {
     map,
     calcWinsize,
     year,
+
 };
