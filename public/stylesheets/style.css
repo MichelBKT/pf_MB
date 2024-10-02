@@ -792,7 +792,7 @@
 
 
     .menu_item {
-        background-color:black;
+        background-color: #3e3e3e;
         width: 100%;
         z-index: 1000;
     }
@@ -833,6 +833,19 @@
     }
     .card__image {
         height: 40vh;
+        flex-direction: column;
+    }
+    ul {
+        background-color: #3e3e3e;
+        padding: 20px;
+    }
+    li {
+        padding: 5px;
+    }
+    .card-wrap {
+        width: 50%;
+        margin-left: 25vw;
+        flex-direction: column;
     }
 }
 
