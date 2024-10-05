@@ -76,9 +76,6 @@
         overflow: hidden;
     }
 
-    .lenis.lenis-smooth header {
-        pointer-events: none;
-    }
 
     :root {
         font-size: 14px;
@@ -93,8 +90,11 @@
     body {
         margin: 0;
         color: var(--color-text);
-        background-image: url("/dist/images/spectrum-flashes-coloured-light.jpg");
-        background-repeat: repeat-y;
+        background-image: url("/dist/images/background.webp");
+        background-repeat: round;
+        background-color: #3e3e3e;
+        background-position: center center;
+        background-size: 100% auto;
         font-family: 'Tenon', sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -140,13 +140,16 @@
         margin-top: 10rem;
         border: none;
         border-radius: 5px;
+        cursor: pointer;
     }
     .btn:hover {
         background: var(--color-link-hover);
         color: var(--color-bg-alt);
-        cursor: pointer;
     }
-
+    .btn_download {
+        justify-content: center;
+        margin-top: 0;
+    }
     a {
         text-decoration: none;
         color: var(--color-link);
@@ -188,7 +191,8 @@
         justify-items: start;
         justify-self: start;
         padding: 2rem;
-        background: linear-gradient(0deg, transparent, var(--color-bg-alt));
+        background-color: #000000;
+        margin-bottom: 10vh;
     }
     .header__title {
         grid-area: title;
@@ -218,12 +222,13 @@
         white-space: nowrap;
         overflow: hidden;
         position: relative;
+        margin-left: 30px;
     }
 
     .header a:not(.header__title-back)::before {
         content: '';
         height: 1px;
-        width: 100%;
+        width: auto;
         background: currentColor;
         position: absolute;
         top: 90%;
@@ -488,10 +493,11 @@
         margin-top: 10vh;
     }
     .signature {
-        width: 40%;
         rotate: -5deg;
         aspect-ratio: initial;
         bottom: 10rem;
+        top: -5rem;
+        width: 270px;
     }
 
     .form-container {
@@ -659,6 +665,7 @@
         padding-top: 2rem;
         padding-bottom: 5rem;
         text-align: center;
+        background-color: black;
     }
     .form-home {
         margin-bottom: 5rem;
@@ -694,23 +701,26 @@
 .header_menu{
     display: none;
 }
-@media screen and (max-width: 767px){
+@media screen and (max-width: 811px){
     .header {
         left: 0;
         top: 0;
+        height: 10vh;
         width: 100%;
         display: grid;
         grid-template-areas: 'title''project''aboutme''contact';
         grid-gap: 2rem;
         justify-items: start;
         align-items: center;
-        background: linear-gradient(0deg, transparent, var(--color-bg-alt));
+        background-color: black;
     }
     .header__title {
         grid-area: title;
         font-family: 'AlphaLyrae', sans-serif;
         font-size: 24px;
         line-height: 53px;
+        width: 56vw;
+        height: 16vh;
     }
 
     .header a {
@@ -792,7 +802,6 @@
 
 
     .menu_item {
-        background-color: #3e3e3e;
         width: 100%;
         z-index: 1000;
     }
@@ -804,8 +813,9 @@
         width: 100%;
         margin: 0 auto;
         top: 0;
-        transform: translateY(100%);
+        transform: translateY(75%) translateX(-40%);
         display: flex;
+        z-index: 1000;
     }
 
     .label_menu_mobile {
@@ -836,7 +846,7 @@
         flex-direction: column;
     }
     ul {
-        background-color: #3e3e3e;
+        background-color: #000000;
         padding: 20px;
     }
     li {
@@ -854,7 +864,7 @@ nav > div > ul > li > a{
     color: white;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px){
+@media screen and (min-width: 812px) and (max-width: 1023px){
     .card__image {
         height: 50vh;
     }
@@ -864,7 +874,7 @@ nav > div > ul > li > a{
 }
 
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 812px){
     .container-nav{
         position: static;
     }
@@ -885,10 +895,9 @@ nav > div > ul > li > a{
         padding: 10px;
     }
     nav a:hover{
-        color: orange;
+        color: #85bcf6;
         border-bottom: 2px solid gold;
     }
-
     nav > div > ul li:hover{
         display: flex;
         flex-flow: column wrap;
