@@ -2,12 +2,12 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/tailwind.config.js" />
         <item url="file://$PROJECT_DIR$/dist/webpack.config.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/dist/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/tailwind.config.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
     </CLASSES>
     <JAVADOC />

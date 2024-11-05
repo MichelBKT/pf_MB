@@ -579,4 +579,6 @@ var scroll = function scroll() {
   scroll();
 });
 (0, _utils.year)();
+_utils.toggleOpen.addEventListener('click', _utils.handleClick);
+_utils.toggleClose.addEventListener('click', _utils.handleClick);
 //# sourceMappingURL=index.js.map

@@ -1,4 +1,7 @@
 /* https://vegaprotocol.github.io/alpha-lyrae/ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @font-face {
     font-family: 'AlphaLyrae';
@@ -90,7 +93,7 @@
     body {
         margin: 0;
         color: var(--color-text);
-
+        background: url(".././images/background_laptop.webp");
         font-family: 'Tenon', sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -138,6 +141,7 @@
         border: none;
         border-radius: 5px;
         cursor: pointer;
+        font-size: 2rem;
     }
     .btn:hover {
         background: var(--color-link-hover);
@@ -259,7 +263,6 @@
         margin: 0;
         display: grid;
         position: relative;
-        z-index: 100;
     }
 
     .intro__title-pre {
@@ -484,8 +487,8 @@
         text-transform: none;
         font-family: 'Tenon', sans-serif;
         font-size: 1.5rem;
-        font-weight: 300;
-        max-width: 400px;
+        font-weight: 600;
+        max-width: 800px;
         line-height: 1.5;
         margin-top: 10vh;
     }
@@ -700,7 +703,7 @@
 }
 @media screen and (max-width: 811px){
     body {
-        background-image: url("/dist/images/background_mobile.webp");
+        background-image: url(".././images/background_mobile.webp");
         background-position: center;
     }
     .header {

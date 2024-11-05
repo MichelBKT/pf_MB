@@ -7,7 +7,6 @@
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/dist/fonts" />
       <excludeFolder url="file://$MODULE_DIR$/dist/images" />
-      <excludeFolder url="file://$MODULE_DIR$/public/documents" />
     </content>
     <content url="file://$MODULE_DIR$/dist" />
     <content url="file://$MODULE_DIR$/dist/fonts" />

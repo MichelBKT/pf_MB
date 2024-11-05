@@ -52,7 +52,20 @@ const year = () => {
     document.querySelector(".current_year").textContent = date.getFullYear();
 }
 
+let toggleOpen = document.getElementById('toggleOpen');
+let toggleClose = document.getElementById('toggleClose');
+let collapseMenu = document.getElementById('collapseMenu');
 
+function handleClick() {
+    if (collapseMenu.style.display === 'block') {
+        collapseMenu.style.display = 'none';
+    } else {
+        collapseMenu.style.display = 'block';
+    }
+}
+
+toggleOpen.addEventListener('click', handleClick);
+toggleClose.addEventListener('click', handleClick);
 
 
 // Exporting utility functions for use in other modules.
@@ -63,5 +76,8 @@ export {
     map,
     calcWinsize,
     year,
+    handleClick,
+    toggleOpen,
+    toggleClose,
 
 };

@@ -7,7 +7,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[FIX] menu responsive" />
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[FIX] menu responsive">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pfMichel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pfMichel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/1fbbf929f248267dc34f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/39312e3073169f4f80ea.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/93a1df32c2faec072bd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/d84983fc615798dd4206.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/documents/CV_Michel_BANCKAERT.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/documents/mentions_legales.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/e20662ae72013ccf0cc2.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/AlphaLyrae-Mediumwoff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/MBFavicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/abstrait-formes-metalliques-bleues_23-2148239789.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/background.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/background_laptop.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/background_mobile.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/contract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/lightBulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/memoji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/michPortraitLarge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/portrait2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/processor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotCuisinea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/screenshotMoviz2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/seedDraw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/spectrum-flashes-coloured-light.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentLearning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/studentWorking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/interactive-tilt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/interactive-tilt.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +75,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,6 +92,9 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a5af7047-d59f-4340-90b8-7fad002c7c0e" />
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:MichelBKT/pf_MB.git&quot;,
@@ -67,57 +124,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Node.js.app\\www.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.bin\\www.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.scrollThroughTube.js.executor&quot;: &quot;Debug&quot;,
-    &quot;Node.js.webpack.config.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.www.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.10.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.10.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/banck/WebstormProjects/pfMichel&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\banck\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Node.js.app\\www.executor": "Run",
+    "Node.js.bin\\www.executor": "Run",
+    "Node.js.scrollThroughTube.js.executor": "Debug",
+    "Node.js.webpack.config.js.executor": "Run",
+    "Node.js.www.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.10.0",
+    "javascript.nodejs.core.library.typings.version": "20.10.8",
+    "last_opened_file_path": "C:/Users/banck/WebstormProjects/pfMichel/public/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "settings.editor.selected.configurable": "configurable.tailwindcss",
+    "ts.external.directory.path": "C:\\Users\\banck\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\images" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\stylesheets" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\javascripts" />
-      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel" />
+      <recent name="C:\Users\banck\WebstormProjects\pfMichel\public" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents2" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\public\documents" />
       <recent name="C:\Users\banck\WebstormProjects\pfMichel\netlify\functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.scrollThroughTube.js">
+  <component name="RunManager" selected="Node.js.bin\www">
     <configuration name="scrollThroughTube.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public/javascripts/scrollThroughTube.js" working-dir="$PROJECT_DIR$/public/javascripts">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="Node.js.scrollThroughTube.js" />
       </list>
     </recent_temporary>
@@ -125,7 +197,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
       </set>
     </attachedChunks>
   </component>
@@ -166,6 +238,15 @@
       <workItem from="1727758279945" duration="11590000" />
       <workItem from="1727793058016" duration="2971000" />
       <workItem from="1727853557128" duration="2004000" />
+      <workItem from="1728096367939" duration="17808000" />
+      <workItem from="1730014219138" duration="43000" />
+      <workItem from="1730014287887" duration="902000" />
+      <workItem from="1730754421012" duration="435000" />
+      <workItem from="1730754884366" duration="23000" />
+      <workItem from="1730754928357" duration="5499000" />
+      <workItem from="1730791332629" duration="3348000" />
+      <workItem from="1730818273149" duration="1275000" />
+      <workItem from="1730819597161" duration="5459000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />

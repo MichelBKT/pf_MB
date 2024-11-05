@@ -1,4 +1,4 @@
-import {preloadImages, year} from "./utils.js";
+import {preloadImages, year, toggleOpen, toggleClose, handleClick} from "./utils.js";
 import  InteractiveTilt  from './interactive-tilt.js';
 import "../stylesheets/style.css"
 import Splitting from "splitting/dist/splitting-lite.js";
@@ -582,4 +582,6 @@ preloadImages('.content__img-inner').then(() => {
 });
 
 year();
+toggleOpen.addEventListener('click', handleClick);
+toggleClose.addEventListener('click', handleClick);
 
