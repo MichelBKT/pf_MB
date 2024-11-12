@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[EDIT] chgt CV">
+    <list default="true" id="9225429a-bec3-4776-877b-019c4ffe6a88" name="Changes" comment="[EDIT] chgt CV v8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,6 +197,8 @@
       <workItem from="1730818273149" duration="1275000" />
       <workItem from="1730819597161" duration="6089000" />
       <workItem from="1730874292932" duration="546000" />
+      <workItem from="1730883279670" duration="579000" />
+      <workItem from="1731332910823" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -502,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730874747322</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="[EDIT] chgt CV v8">
+      <option name="closed" value="true" />
+      <created>1730883625212</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1730883625212</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +582,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[edit] path js index.html" />
     <MESSAGE value="[edit] path js index.html + [del] Procfile" />
     <MESSAGE value="[edit] index.html template + webpack.config.js + [del] Procfile" />
     <MESSAGE value="[edit] gitignore" />
@@ -597,6 +606,7 @@
     <MESSAGE value="[FIX] menu responsive" />
     <MESSAGE value="[EDIT] menu tailwind" />
     <MESSAGE value="[EDIT] chgt CV" />
-    <option name="LAST_COMMIT_MESSAGE" value="[EDIT] chgt CV" />
+    <MESSAGE value="[EDIT] chgt CV v8" />
+    <option name="LAST_COMMIT_MESSAGE" value="[EDIT] chgt CV v8" />
   </component>
 </project>
