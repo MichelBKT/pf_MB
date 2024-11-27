@@ -93,7 +93,7 @@
     body {
         margin: 0;
         color: var(--color-text);
-        background: url(".././images/background_laptop.webp");
+        background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(".././images/background_laptop.webp");
         font-family: 'Tenon', sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -184,7 +184,7 @@
         background: transparent;
     }
 
-    .header {
+.header {
         display: grid;
         grid-template-columns: 1fr auto;
         grid-template-areas: 'title ... contact';
@@ -332,7 +332,7 @@
 
     .content-wrap {
         display: grid;
-        gap: 40vh;
+        gap: 20vh;
         margin-bottom: 40vh;
     }
 
@@ -439,14 +439,7 @@
         display: flex;
         flex-direction: column;
         font-weight: 400;
-        line-height: 1;
-    }
-    .projects__title {
-        grid-area: projects;
-        position: relative;
-        top: 85rem;
-        font-size: clamp(0.5rem, 3vw, 2rem);
-        margin-top: 20vh;
+        line-height: 1.2;
 
     }
     .content__text span span {
@@ -701,9 +694,51 @@
 .header_menu{
     display: none;
 }
+i {
+    font-size: 5rem;
+}
+/* Conteneur principal */
+.scroll-container {
+    width: 100%;
+    overflow: hidden;
+    height: 400px; /* Deux lignes de 100px chacune */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 100px; /* Espacement entre les lignes */
+}
+
+/* Contenu défilant */
+.scroll-content {
+    display: flex;
+    gap: 20px; /* Espacement entre les icônes */
+    white-space: nowrap;
+    position: relative;
+}
+
+
+/* Animation de droite à gauche */
+@keyframes scroll-left {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/* Animation de gauche à droite */
+@keyframes scroll-right {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}
 @media screen and (max-width: 811px){
     body {
-        background-image: url(".././images/background_mobile.webp");
+        background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(".././images/background_mobile.webp");
         background-position: center;
     }
     .header {
@@ -774,6 +809,7 @@
     }
     .content__text-tiny {
         padding-left: 1.5rem;
+        margin-top: 20vh;
     }
     .screen-body {
         display: block;
@@ -860,6 +896,16 @@
         margin-left: 25vw;
         flex-direction: column;
     }
+    i {
+        font-size: 3rem;
+    }
+    .scroll-line1 {
+        animation: scroll-left 13s linear infinite;
+    }
+
+    .scroll-line2 {
+        animation: scroll-right 13s linear infinite;
+    }
 }
 
 
@@ -925,6 +971,13 @@ nav > div > ul > li > a{
     .cards {
         display: flex;
         justify-content: center;
+    }
+    .scroll-line1 {
+        animation: scroll-left 30s linear infinite;
+    }
+
+    .scroll-line2 {
+        animation: scroll-right 30s linear infinite;
     }
 
 }

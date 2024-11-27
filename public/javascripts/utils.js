@@ -67,6 +67,22 @@ function handleClick() {
 toggleOpen.addEventListener('click', handleClick);
 toggleClose.addEventListener('click', handleClick);
 
+// Sélection des éléments nécessaires
+const scrollContainers = document.querySelectorAll('.scroll-content');
+
+// Fonction pour cloner le contenu
+const cloneContent = () => {
+    scrollContainers.forEach((container) => {
+        while (container.scrollWidth < container.parentElement.offsetWidth * 2) {
+            container.innerHTML += container.innerHTML;
+        }
+    });
+};
+
+// Initialisation
+cloneContent();
+
+
 
 // Exporting utility functions for use in other modules.
 export {
@@ -79,5 +95,6 @@ export {
     handleClick,
     toggleOpen,
     toggleClose,
+    cloneContent,
 
 };
