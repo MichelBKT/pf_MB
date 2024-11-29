@@ -75,6 +75,10 @@ module.exports = {
         new CopyPlugin({
             patterns: [
                 {
+                    from: "./public/video",
+                    to: "./video/[path][name].[ext]",
+                },
+                {
                     from: "./public/images",
                     to: "./images/[path][name].[ext]",
                 },

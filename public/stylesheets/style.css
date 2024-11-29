@@ -308,7 +308,7 @@
 
     .card-wrap {
         margin-top: 5vh;
-        display: flex;
+        grid-auto-flow: column;
         grid-gap: 2rem;
         justify-content: center;
     }
@@ -318,9 +318,7 @@
         border-radius: 7px;
         background-size: cover;
         background-position: 50% 50%;
-        width: 80%;
         height: 80vh;
-        aspect-ratio: 5/4;
         rotate: 10deg;
         margin-bottom: 2rem;
     }
@@ -881,7 +879,6 @@ i {
         display: none;
     }
     .card__image {
-        height: 40vh;
         flex-direction: column;
     }
     ul {
@@ -892,8 +889,6 @@ i {
         padding: 5px;
     }
     .card-wrap {
-        width: 50%;
-        margin-left: 25vw;
         flex-direction: column;
     }
     i {
@@ -924,6 +919,11 @@ nav > div > ul > li > a{
 
 
 @media screen and (min-width: 812px){
+    .card-wrap {
+        display: grid;
+        grid-auto-flow: column;
+        margin-top: 50vh;
+    }
     .container-nav{
         position: static;
     }
